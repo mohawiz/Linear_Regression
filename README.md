@@ -14,10 +14,7 @@ Built a predictive analytics model to forecast sales based on advertising budget
 ```markdown
 # 📈 Advertising Sales Prediction with Linear Regression
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python)](https://www.python.org/)
-[![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-F7931E?logo=scikit-learn)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?logo=kaggle)](https://www.kaggle.com/)
+
 
 A machine learning project that builds a **Linear Regression model** to predict product sales based on advertising budget allocation across different media channels (TV, Radio, Newspaper). This project demonstrates a complete data science workflow from exploratory data analysis to model evaluation.
 
